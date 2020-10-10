@@ -2,9 +2,9 @@
 ## Understanding Correlation Between Police Shootings and Local Demographics
 
 ### Team members
-1. Grace Xing
-2. Sasith Wijebandara
-3. Angela Wang
+1. Grace Xing (GX)
+2. Sasith Wijebandara (SW)
+3. Angela Wang (AW)
 
 ### Description and outline
 With the increasing coverage of the Black Lives Matter movement, we look back into historic data to understand if there is a distinct correlation between the police shootings and the local demographics. Through various sources, we aim to determine if there are any key factors that have added to the increasing police brutality.
@@ -12,7 +12,7 @@ With the increasing coverage of the Black Lives Matter movement, we look back in
 ### Research questions to answer:
 1. What is the correlation between the demographics in an area with the number of police shootings? Is there a certain race that is targeted?
 2. Determining if there is a correlation between key dates of protests and surges in activity.
-3. Understanding if there is a correlation between the crimes committed in an area and the police force used.
+3. Understanding if there is a correlation between the number of firearm purchases in relation to deaths.
 
 ### Datasets to be used:
 - US Census data
@@ -28,9 +28,10 @@ With the increasing coverage of the Black Lives Matter movement, we look back in
 
 ### Task breakdown:
 - Everyone will research datasets for a certain topic and then clean and import it into Pandas.
-- Everyone will map/plot out their information into a snapshot so that the other team members can understand the information available.
-- Following the initial review, one member can focus on refining the data and obtaining new dataset of interest.
-- One member can focus on Google Maps API (or OpenStreet Maps) to map out any correlations.
-- One member can focus on utilising Matplotlib to plot out key learnings from the Project.
-- Each member must have their code reviewed by another member before merging into the master branch.
+- Each member must ensure that the datasets are consistent, so that each member is able to extract information from each other.
+- SW will focus on census data and drawing correlations with the shooting data.
+- GX will focus on the gun purchase information and firearm background checks.
+- AW will look into media coverage and determine if there are any identifiable trends.
 
+### Note:
+We would like to add that this is a very complex issue we are addressing and though the information and conclusions that we have drawn provide a certain understanding, there are various other factors that have not been taken into account.
